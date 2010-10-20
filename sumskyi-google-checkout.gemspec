@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
-  s.name = %q{google-checkout}
-  s.version = "0.2.0"
+  s.name = %q{sumskyi-google-checkout}
+  s.version = "0.3.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Peter Elmore", "Geoffrey Grosenbach"]
@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.homepage = %q{http://rubyforge.org/projects/google-checkout}
   s.rdoc_options = ["--main", "README.txt"]
   s.require_paths = ["lib"]
-  s.rubyforge_project = %q{google-checkout}
+  s.rubyforge_project = %q{sumskyi-google-checkout}
   s.rubygems_version = %q{1.2.0}
   s.summary = %q{An experimental library for sending payment requests to Google Checkout.}
 
